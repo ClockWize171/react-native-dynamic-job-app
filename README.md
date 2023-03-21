@@ -1,15 +1,9 @@
-# Expo Router Example
+### How to test the app?
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+- You need to download the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) App in your mobile.
+- Sign up account [here](https://expo.dev/signup) and download the Expo App [Here](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US).
+- Scan the [QRCode](https://expo.dev/@clockwize171/nft-marketplace?serviceType=classic&distribution=expo-go) through Expo App via your account.
 
-## 🚀 How to use
+# Expo QR code
 
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+![qrcode](./job-search-qr.jpg)
